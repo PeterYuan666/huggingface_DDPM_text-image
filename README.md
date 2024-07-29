@@ -1,8 +1,8 @@
 
 # Text-to-Image Generation with Hugging Face Diffusion Models
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">  
-    <img src="https://github.com/PeterYuan666/huggingface_DDPM_text-image/blob/785388add0e167d33e481dd082f6aaeb349b28ab/generate_picture_collection/a%20photo%20of%20two%20birds%20sitting%20on%20the%20cake_1.png" alt="Two Birds Sitting on Cake 1" style="width: 45%; height: auto;">  
-    <img src="https://github.com/PeterYuan666/huggingface_DDPM_text-image/blob/785388add0e167d33e481dd082f6aaeb349b28ab/generate_picture_collection/a%20photo%20of%20two%20birds%20sitting%20on%20the%20cake_2.png" alt="Two Birds Sitting on Cake 2" style="width: 45%; height: auto;">  
+    <img src="https://github.com/PeterYuan666/huggingface_DDPM_text-image/blob/785388add0e167d33e481dd082f6aaeb349b28ab/generate_picture_collection/a%20photo%20of%20two%20birds%20sitting%20on%20the%20cake.png" alt="Two Birds Sitting on Cake 1" style="width: 45%; height: auto;">  
+    <img src="https://github.com/PeterYuan666/huggingface_DDPM_text-image/blob/785388add0e167d33e481dd082f6aaeb349b28ab/generate_picture_collection/a%20photo%20of%20two%20birds%20sitting%20on%20the%20cake.png" alt="Two Birds Sitting on Cake 2" style="width: 45%; height: auto;">  
 </div>  
   
 <p>  
