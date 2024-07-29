@@ -1,6 +1,4 @@
-为了撰写一个清晰且易于理解的GitHub README文件，我们将使用Markdown格式来介绍你的项目。以下是一个示例，你可以根据需要进行修改和扩展。
 
-```markdown
 # Text-to-Image Generation with Hugging Face Diffusion Models
 
 ## Introduction
