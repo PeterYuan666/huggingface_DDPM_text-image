@@ -82,5 +82,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 - Thanks to Hugging Face for providing the `diffusers` library and pre-trained models.
 - Thanks to the creators of the `runwayml/stable-diffusion-v1-5` model.
-```
 
