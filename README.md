@@ -84,4 +84,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 - Thanks to the creators of the `runwayml/stable-diffusion-v1-5` model.
 ```
 
-请确保将`generate_image.py`替换为你的实际脚本文件名，并根据需要调整其他细节。
