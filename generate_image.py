@@ -23,6 +23,7 @@ def main_function():
     # Select the first image (index 0)  
     image = images[0]  
     file_path = 'C://Users//30651//Desktop//github//diffusion_model//generate_picture_collection'  # Note: This is a network path or a UNC path with double slashes  
+    #you can switch it to your own address.
     file_name = f"{prompt.replace(' ', '_')}.png"  # Replace spaces in the prompt for a valid filename  
     full_path = file_path + '/' + file_name  # Use '/' as the path separator for compatibility  
       
