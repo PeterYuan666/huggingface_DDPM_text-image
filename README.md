@@ -66,10 +66,6 @@ The script will save an image named `A beautiful sunset over the ocean.png` in t
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to Hugging Face for providing the `diffusers` library and pre-trained models.
